@@ -41,6 +41,7 @@
 
 .depoimento p::after {
   content: "”";
+  bottom: -45px;
 }
 
 @media (max-width: 800px) {
